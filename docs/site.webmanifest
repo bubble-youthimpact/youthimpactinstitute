@@ -1,0 +1,21 @@
+{
+  "name": "Youth Impact Institute",
+  "short_name": "YII",
+  "description": "Youth Impact Institute is a global, student-run think tank where high school students publish research, UN policy memos and advocacy campaigns on global issues.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#22184E",
+  "icons": [
+    {
+      "src": "/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}

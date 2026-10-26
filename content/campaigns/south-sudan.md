@@ -1,0 +1,19 @@
+---
+title: Urgent Action to Address Healthcare Needs of Displaced People in South Sudan
+author: Eugene Lee
+date: 2025-02-01
+image: campaigns/south-sudan.webp
+supporters: 87
+website: https://chng.it/grFr4md8c6
+format: html
+---
+<h2>1. Introduction</h2>
+<p>The situation in South Sudan is increasingly dire, characterized by widespread conflict, humanitarian crises, and a collapsing healthcare system. Currently, more than 2.2 million people are internally displaced, with an additional 1.6 million seeking refuge in neighboring countries, primarily Uganda and Ethiopia. This displacement has resulted in approximately 7.76 million individuals—about 60% of the population—requiring urgent humanitarian assistance. With only 50% of healthcare facilities operational, the lack of access to medical care is exacerbated by a staggering one doctor per 10,000 people, leading to preventable deaths and suffering. The urgent need for intervention has never been clearer, and we must act now to provide essential support to the affected population.</p>
+<h2>2. Problem Statement</h2>
+<p>Displaced people in South Sudan face a multitude of challenges in accessing healthcare:</p>
+<ul><li>Lack of Facilities: Over 50% of health facilities in conflict-affected areas are either damaged or non-functional, leaving many communities without nearby healthcare services.</li><li>Shortage of Medical Staff: There are only about 2,000 qualified healthcare workers in the country, with many fleeing due to insecurity and low wages. This shortage significantly hampers the ability to provide adequate care.</li><li>Essential Medicines: According to the World Health Organization (WHO), over 70% of healthcare facilities report stockouts of essential medicines, making it impossible for patients to receive necessary treatments for common ailments and chronic conditions.</li><li>Poor Sanitation: Many displaced persons live in overcrowded conditions with inadequate sanitation, leading to high rates of waterborne diseases. The recent cholera outbreak in South Sudan has resulted in over 12,000 reported cases and hundreds of deaths, further highlighting the urgent need for improved health infrastructure.</li><li>Impact of Ongoing Conflicts: Continuous violence and instability disrupt humanitarian efforts, making it challenging for aid organizations to deliver essential supplies and services. This has resulted in many areas remaining cut off from assistance.</li></ul>
+<h2>3. Call to Action</h2>
+<p>We, the undersigned, urge the international community and relevant authorities to take immediate action to address the healthcare crisis facing displaced people in South Sudan. Our demands include:</p>
+<ul><li>Increased Funding for Healthcare: We call for the allocation of at least $250 million in additional funding to support healthcare initiatives, targeting areas most affected by displacement and conflict.</li><li>Deployment of Medical Personnel: Mobilize at least 1,500 healthcare workers, including doctors, nurses, and mental health specialists, to provide essential care in underserved regions.</li><li>Improved Access to Essential Medicines: Establish a reliable supply chain for essential medicines, aiming for a 90% availability rate of critical medications in healthcare facilities serving displaced populations.</li><li>Establishment of More Healthcare Centers: Set up at least 20 new healthcare clinics in areas with high concentrations of displaced individuals, ensuring that these centers are equipped to handle common and urgent medical needs.</li></ul>
+<p>Together, we can bring attention to this urgent situation and work towards a sustainable solution for the displaced populations in South Sudan. Your support in signing this petition is crucial in advocating for the rights and well-being of those who are suffering.</p>
+<p>Thank you for your consideration.</p>

@@ -1,0 +1,17 @@
+rules_version = '2';
+service cloud.firestore {
+  match /databases/{database}/documents {
+    // Campaign sign-ups: anyone can read the count and add one sign-up per email.
+    // Nothing can be edited or deleted from the website.
+    match /campaigns/{campaign}/signups/{id} {
+      allow read: if true;
+      allow create: if id.matches('^[a-f0-9]{64}$')
+                    && request.resource.data.keys().hasOnly(['createdAt'])
+                    && request.resource.data.createdAt == request.time;
+      allow update, delete: if false;
+    }
+    match /{document=**} {
+      allow read, write: if false;
+    }
+  }
+}

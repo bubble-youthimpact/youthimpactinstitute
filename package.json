@@ -1,0 +1,6 @@
+{
+  "name": "youth-impact-institute",
+  "private": true,
+  "type": "module",
+  "scripts": { "build": "node build.mjs", "missing": "node build.mjs --missing" }
+}

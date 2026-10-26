@@ -1,0 +1,62 @@
+{
+  "name": "Youth Impact Institute",
+  "short": "YII",
+  "tagline": "A Global, Student-Run Think Tank",
+  "description": "Youth Impact Institute is a global, student-run think tank where high school students publish research, UN policy memos and advocacy campaigns on global issues.",
+  "url": "https://youthimpactinstitute.com",
+  "cname": "youthimpactinstitute.com",
+  "base": "",
+  "formEmail": "bubble.youthimpact@gmail.com",
+  "contactFormEmail": "bubble.youthimpact@gmail.com",
+  "contacts": [
+    {
+      "heading": "Youth Impact",
+      "items": [
+        {
+          "type": "email",
+          "label": "Email",
+          "value": "admin@youthimpact.com"
+        },
+        {
+          "type": "instagram",
+          "label": "Instagram",
+          "value": "@youthimpact.co"
+        },
+        {
+          "type": "phone",
+          "label": "Call",
+          "value": "+82-10-8075-2108"
+        },
+        {
+          "type": "kakao",
+          "label": "카카오채널",
+          "value": "유스임팩트",
+          "url": "https://pf.kakao.com/_phxeGxj"
+        }
+      ]
+    },
+    {
+      "heading": "Youth Impact Institute",
+      "items": [
+        {
+          "type": "email",
+          "label": "Email",
+          "value": "info.youthimpact@gmail.com"
+        },
+        {
+          "type": "instagram",
+          "label": "Instagram",
+          "value": "@youthimpactinstitute.yi"
+        }
+      ]
+    }
+  ],
+  "firebase": {
+    "apiKey": "AIzaSyCO2NxmazapdxvkEBAvXMzb2JRkTwyKwqI",
+    "authDomain": "youthimpactinstitute-dde2b.firebaseapp.com",
+    "projectId": "youthimpactinstitute-dde2b",
+    "storageBucket": "youthimpactinstitute-dde2b.firebasestorage.app",
+    "messagingSenderId": "222151594560",
+    "appId": "1:222151594560:web:474a422366ac8edc7fc5a5"
+  }
+}
